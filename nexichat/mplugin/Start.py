@@ -256,7 +256,7 @@ async def ls(client: Client, m: Message):
 
 
 
-@Client.on_message(filters.command(["start", "aistart"]))
+@Client.on_message(filters.command(["starhhht", "aistart"]))
 async def start(client: Client, m: Message):
     bot_id = client.me.id
     users = len(await get_served_cusers(bot_id))
