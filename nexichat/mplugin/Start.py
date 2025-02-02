@@ -52,7 +52,7 @@ EMOJIOS = [
     "🕊",
 ]
 
-BOT = "https://envs.sh/IL_.jpg"
+BOT = "https://graph.org/file/b2cf727f64ddf483b976c-5dd66f2de23ea66455.jpg"
 IMG = [
     "https://graph.org/file/210751796ff48991b86a3.jpg",
     "https://graph.org/file/7b4924be4179f70abcf33.jpg",
